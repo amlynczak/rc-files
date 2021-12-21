@@ -16,8 +16,13 @@ HISTCONTROL=ignoreboth
 shopt -s histappend
 
 # for setting history length see HISTSIZE and HISTFILESIZE in bash(1)
+<<<<<<< HEAD
 HISTSIZE=1000
 #HISTFILESIZE=2000
+=======
+#HISTSIZE=1000
+HISTFILESIZE=2000
+>>>>>>> 46b581908c3f4ad3f571679d972054f9f8d7ec35
 
 # check the window size after each command and, if necessary,
 # update the values of LINES and COLUMNS.
